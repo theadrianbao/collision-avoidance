@@ -1,4 +1,4 @@
-# pytorch-collision-avoidance
+# collision-avoidance
 * Simple pytorch classifier for collision avoidance
 * You can use a pretrained model (based on [Obstacle Detection Dataset](https://www.kaggle.com/datasets/vrushankanand/obstacle-detection/)) or train one with your own data
 
